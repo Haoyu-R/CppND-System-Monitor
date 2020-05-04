@@ -4,3 +4,4 @@ settings.json
 *.o
 build/*
 *.json
+/.vs/CppND-System-Monitor/v16/Browse.VC.opendb
